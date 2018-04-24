@@ -1,6 +1,6 @@
 var name = "Joe"
 var height = "74"
-if (name === "Joe") {
+if (name === "Susan") {
   console.log("This name is correct")
 }
 
